@@ -83,7 +83,7 @@ class Program
     {
         while (true)
         {
-            Console.WriteLine("Choose an opperation: ");
+            Console.WriteLine("Choose an operation: ");
             Console.WriteLine("[1] Addition");
             Console.WriteLine("[2] Subtraction");
             Console.WriteLine("[3] Multiplication");
